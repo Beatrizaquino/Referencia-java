@@ -1,3 +1,4 @@
+package referencia;
 public class Referencia {
     public static class Elo {
         String nome;
